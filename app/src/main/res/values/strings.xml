@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fragment_first</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="name">name</string>
+    <string name="plus">+</string>
+    <string name="xyz">xyz</string>
+    <string name="pass">PASS</string>
+    <string name="minus">-</string>
+    <string name="hello">Hello</string>
+    <string name="user">USER</string>
+    <string name="clear">clear</string>
+    <string name="zero">0</string>
+</resources>
